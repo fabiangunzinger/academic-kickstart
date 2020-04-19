@@ -24,8 +24,8 @@ interests:
 - Habits
 - Empirical methods
 
-education:
-  courses:
+#education:
+#  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-Will write more at some point.
+# Write short bio here at some point.
