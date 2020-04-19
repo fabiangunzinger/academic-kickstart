@@ -29,7 +29,7 @@ projects: []
 ---
 
  <iframe
-       src="./<learning.html>"
+       src="./<learning>"
        width="90%"
        height="1000px"
        style="border:none;">
