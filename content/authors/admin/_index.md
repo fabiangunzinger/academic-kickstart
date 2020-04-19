@@ -19,10 +19,10 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-interests:
-- Consumer financial behaviour
-- Habits
-- Empirical methods
+#interests:
+#- Consumer financial behaviour
+#- Habits
+#- Empirical methods
 
 #education:
 #  courses:
