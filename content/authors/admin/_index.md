@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-# Write short bio here at some point.
+<!-- Write short bio here at some point. -->
