@@ -31,10 +31,10 @@ projects: []
  <iframe
        src="./learning.html"
        width="100%"
-       height="100%"
+       height="10000px"
        margin="0"
        padding="0"
-       border="none"
+       frameborder="0"
        scrolling="no"
        style="border:none;">
  </iframe>
